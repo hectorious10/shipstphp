@@ -1,2 +1,2 @@
 # shipstphp
-Shipstation - CURL call to update shipments
+Shipstation - CURL call to create shipments
